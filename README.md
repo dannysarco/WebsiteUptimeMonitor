@@ -21,7 +21,7 @@ This Python script monitors the uptime and response times of different URL forma
 ## Installation
 1. Clone the repository.
 2. Install dependencies: `pip install requests`
-3. Run the script: `python website_monitor.py`
+3. Run the script: `main.py`
 
 ## Contributing
 Feel free to fork this repository and submit pull requests or suggest improvements via issues.
